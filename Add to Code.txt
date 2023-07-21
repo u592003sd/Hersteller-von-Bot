@@ -1,0 +1,32 @@
+the attacking robots go straight in line and then 
+drop virus in the middle and then continue forward
+
+
+
+What we are trying to do currently is to unify the movement 
+code and change the target base when required. 
+
+Strategy 1:
+Farmers and Attackers
+
+Strategy 2:
+H and  V
+
+Strategy 3:
+Replacing the Martyr robots.
+
+Strategy 4:
+
+
+Checks and Suggestions:
+Keeping the coordinates integers.
+
+gaps when line robots are killed.
+
+Defence around base.
+
+!!!!!!!4. First, the robots will go to near border, then start their
+motion towards far border.
+ we will get base coordinates then compare them with 
+half of the base dimensions.
+
